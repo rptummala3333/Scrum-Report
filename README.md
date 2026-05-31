@@ -1,2 +1,0 @@
-# Scrum-Report
-Scrum Report
